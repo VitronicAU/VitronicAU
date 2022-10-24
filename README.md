@@ -4,4 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-I will update this ReadMe once I establish accurate elipse replacements.
+TODO:
+1) Contemplate appropriate elipse replacements.
+2) Make coffee..
+3) Further contemplation
